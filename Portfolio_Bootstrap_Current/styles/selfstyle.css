@@ -1,0 +1,115 @@
+/** Content guide here 
+    From XD file
+
+Font: 
+  Orange: #DF784B
+  BG-Dark: #2A2928
+  Teal-Blue: #47B3E5
+  white: #ffffff
+  active: #
+  :: Before : #
+
+Opacity:
+
+
+
+/** override nav class color system in bootstrap**/
+/** adjust active mouseover view for opacity on # **/
+.navbar {
+  right: 4em;
+  letter-spacing: 0.2em;
+}
+
+.nav-link {
+  font-family: 'Oswald';
+  color: #df784b;
+}
+.bg-dark {
+  background-color: #2A2928 !important;
+}
+#body1 {
+  background-color: #2A2928
+}
+/** index.html main title **/
+.welcome-heading {
+  position: relative;
+  top: 22em;
+  left: 8em;
+}
+/** Header **/
+.mb-1 {
+  font-family: 'Abril Fatface', cursive;
+  position: relative;
+  display: block;
+  letter-spacing: 0.05em;
+  color: #47B3E5;
+  font-size: 4.7em;
+  padding-top: 4.6em;
+  padding-left: 1em;
+}
+/** make animation for a overlay entrace **/
+.mb-2 {
+  position: relative;
+  display: block;
+  /* margin: 0em; */
+
+  /* configure the padding to single line */
+  padding-left: 1.5em;
+  padding-top: 4em;
+  padding-right: 4.5em;
+  letter-spacing: 0.05em;
+  font-family: 'Playfair Display', serif;
+  color: rgb(41,127,167);
+  opacity: 60%;
+  font-size: 1.9em;
+}
+.overlay1 {
+  background-color: #ffffff;
+  opacity: 60%;
+}
+.mb-3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.8em;
+  display: block;
+  position: relative;
+  padding-left: 3.5em;
+  padding-right: 3em;
+  margin: 10px,0px,10px,0px;
+  color: rgb(41, 127, 167)
+}
+h3 {
+  font-family: 'Playfair Display', light;
+  font-size: 1.1em;
+  display: block;
+}
+/** Header description **/
+
+
+/** Portfolio.html **/
+#description {
+  position: relative;
+  display:block;
+  padding-top: 8em;
+  padding-left: 10.4em;
+  font-family: 'Oswald', serif;
+  color: #47B3E5;
+}
+#fulldescription {
+  position: relative;
+  display: block;
+  color: #ffffff;
+  padding-left: 12.5em;
+  padding-top: 2em;
+  font-size: .8em !important;
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+}
+
+.desc {
+  text-align: center;
+  font-size: 1.3em;
+  position: relative;
+  display: block;
+  margin: 0;
+  padding-right: 1em;
+}
